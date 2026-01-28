@@ -1,0 +1,9 @@
+[
+  {
+    "userId": "u1",
+    "items": [
+      { "productId": "vit-complex-1", "quantity": 1 },
+      { "productId": "protein-pwd-1", "quantity": 2 }
+    ]
+  }
+]

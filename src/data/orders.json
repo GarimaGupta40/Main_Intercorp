@@ -1,0 +1,12 @@
+[
+  {
+    "orderId": "ORD-12345",
+    "userId": "u1",
+    "products": [
+      { "productId": "vit-complex-1", "name": "Vitamin Complex", "price": 24.99, "quantity": 1 }
+    ],
+    "paymentMethod": "COD",
+    "status": "Shipped",
+    "date": "2026-01-15T10:30:00Z"
+  }
+]

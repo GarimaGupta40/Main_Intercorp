@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "phone": "+1 234 567 890",
+  "addressFields": {
+    "house": "123",
+    "area": "Main St",
+    "city": "New York",
+    "state": "NY",
+    "pincode": "10001",
+    "country": "USA"
+  }
+}

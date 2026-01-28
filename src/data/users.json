@@ -1,0 +1,10 @@
+[
+  {
+    "id": "u1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1 234 567 890",
+    "password": "hashed_password_dummy",
+    "address": "123 Main St, New York, NY 10001"
+  }
+]
