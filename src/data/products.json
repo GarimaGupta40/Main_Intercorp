@@ -4,7 +4,8 @@
     "name": "Vitamin Complex",
     "category": "human-nutrition",
     "price": 2074,
-    "image": "/src/assets/product-1.jpg",
+    "image": "/product-1.jpg"
+,
     "description": "Complete multivitamin formula with essential nutrients. Supports immune system and daily energy levels.",
     "rating": 4.8,
     "stock": 150,
