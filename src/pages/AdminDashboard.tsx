@@ -50,6 +50,7 @@ import {
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
 
+
 interface Notification {
   id: string;
   type: 'new_order' | 'status_change';
@@ -148,7 +149,7 @@ export default function AdminDashboard() {
     description: '',
     stock: '',
     expiryDate: '',
-    image: '/src/assets/product-1.jpg'
+    image: '/product-1.jpg'
   });
   const [imagePreview, setImagePreview] = useState<string | null>(null);
 
@@ -417,7 +418,7 @@ export default function AdminDashboard() {
       description: '',
       stock: '',
       expiryDate: '',
-      image: '/src/assets/product-1.jpg'
+      image: '/product-1.jpg'
     });
     setImagePreview(null);
     setIsModalOpen(true);
